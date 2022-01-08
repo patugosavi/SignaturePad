@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-cache-path
+        name="cache"
+        path="camera" />
+
+    <external-path
+        name="images"
+        path="Android/data/com.example.signaturepad/files/Pictures/" />
+
+    <files-path
+        name="shared"
+        path="shared/" />
+
+</paths>
+
+
